@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230029661628",
+    "project_id": "test123-6856c",
+    "storage_bucket": "test123-6856c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230029661628:android:937eb493f8405d027547b9",
+        "android_client_info": {
+          "package_name": "com.vladposhenko.cardgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD2_oru20z1tybQ3FxszG418QuHH45cyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

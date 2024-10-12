@@ -1,0 +1,6 @@
+export { default as firstRobotCard } from './firstCard'
+export { default as secondRobotCard } from './secondCard'
+export { default as thirdRobotCard } from './thirdCard'
+export { default as fourthRobotCard } from './fourthCard'
+export { default as fifthRobotCard } from './fifthCard'
+export { default as sixthRobotCard } from './sixthCard'
